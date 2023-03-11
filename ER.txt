@@ -1,0 +1,4 @@
+REYES (#idRey, nombreRey)
+NINOS (#idNino, nombreNino, apellidosNino, anoNacimientoNino, buenoNino)
+REGALOS (#idRegalo, nombreRegalo, precioRegalo, idReyFK)
+Recibidos (#idRecibido, idNinoFK, idRegaloFK)
